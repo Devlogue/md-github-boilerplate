@@ -16,6 +16,8 @@ https://stackedit.io
 Clique no botão "Raw" no canto superior direito e copie todo o código após o divisor "----".
 Utilize esse código no seu README.md
 
+## Curtiu? Deixa a 🌟 no repo!
+
 ---
 
 <p align="center">
