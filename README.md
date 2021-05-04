@@ -11,6 +11,11 @@ https://github.com/Ileriayo/markdown-badges
 Você pode usar este site para editar online o seu markdown:
 https://stackedit.io
 
+## Como utilizar o tema?
+
+Clique no botão "Raw" no canto superior direito e copie todo o código após o divisor "----".
+Utilize esse código no seu README.md
+
 ---
 
 <p align="center">
